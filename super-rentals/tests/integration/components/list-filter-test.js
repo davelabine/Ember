@@ -74,7 +74,7 @@ test('should update with matching listings', function (assert) {
   });
 });
 
-/*
+/* Not sure why this is failing.
 test('it renders', function(assert) {
   // Set any properties with this.set('myProperty', 'value');
   // Handle any actions with this.on('myAction', function(val) { ... });
